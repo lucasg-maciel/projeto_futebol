@@ -1,3 +1,7 @@
 {"fonte": "adamgbor/club-football-match-data-2000-2025", "arquivo_origem": "Matches.csv", "arquivo_bronze": "football_20260910.csv", "extraido_em": "2026-09-10T14:25:07.852760"}
 {"fonte": "adamgbor/club-football-match-data-2000-2025", "arquivo_origem": "Matches.csv", "arquivo_bronze": "football_20260910.csv", "extraido_em": "2026-09-10T14:28:16.876077"}
 {"fonte": "adamgbor/club-football-match-data-2000-2025", "arquivo_origem": "Matches.csv", "arquivo_bronze": "football_20260910.csv", "extraido_em": "2026-09-10T14:28:36.675178"}
+{"fonte": "adamgbor/club-football-match-data-2000-2025", "arquivo_origem": "Matches.csv", "arquivo_bronze": "football_20260924.csv", "extraido_em": "2026-09-24T14:44:47.400408"}
+{"fonte": "davidcariboo/player-scores", "arquivo_origem": "clubs.csv", "arquivo_bronze": "clubs_20260924.csv", "extraido_em": "2026-09-24T14:44:53.754576"}
+{"fonte": "davidcariboo/player-scores", "arquivo_origem": "players.csv", "arquivo_bronze": "players_20260924.csv", "extraido_em": "2026-09-24T14:44:53.767307"}
+{"fonte": "davidcariboo/player-scores", "arquivo_origem": "player_valuations.csv", "arquivo_bronze": "player_valuations_20260924.csv", "extraido_em": "2026-09-24T14:44:53.786816"}

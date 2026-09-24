@@ -4,3 +4,4 @@ dados/ouro/*
 .venv/
 __pycache__/
 kaggle.json
+relatorios/

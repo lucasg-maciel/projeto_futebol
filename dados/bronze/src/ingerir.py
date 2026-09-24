@@ -6,7 +6,8 @@ import json
 from datetime import datetime
 
 DATASET = "adamgbor/club-football-match-data-2000-2025"
-BRONZE = Path("dados/bronze/football")
+Root = Path(__file__).resolve().parents[3]
+BRONZE = Root / "dados" / "bronze" / "football"
 def baixar():
     pasta = kagglehub.dataset_download(DATASET)
     print("baixado em:", pasta)
