@@ -1,4 +1,3 @@
-dados/prata/*
 dados/ouro/*
 !dados/**/.gitkeep
 .venv/

@@ -1,0 +1,224 @@
+﻿time_partidas,chave_clube,aliases_configurados,nomes_catalogo_correlacionados,club_id_correlacionado,status_correlacao_catalogo,sugestoes_catalogo,temporadas_observadas,competicoes_observadas
+Ajaccio,time:ajaccio,Ajaccio,AC Ajaccio,1147,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2022/23,FR1
+Ajaccio GFCO,time:ajaccio_gfco,Ajaccio GFCO | GFC Ajaccio | Gazelec Ajaccio,GFC Ajaccio,3558,mapeado_com_id_unico,,2015/16,FR1
+Alaves,time:alaves,Alaves | Deportivo Alaves,Deportivo Alavés,1108,mapeado_com_id_unico,,2016/17 | 2017/18 | 2018/19 | 2023/24 | 2024/25 | 2025/26,ES1
+Almeria,time:almeria,Almeria | UD Almeria,UD Almería,3302,mapeado_com_id_unico,,2010/11 | 2013/14 | 2014/15 | 2022/23 | 2023/24,ES1
+America MG,time:america_mg,America FC MG | America Futebol Clube (MG) | America Futebol Clube MG | America MG | America Mineiro,,,sem_id_no_catalogo,"[{""nome"": ""CF América"", ""similaridade"": 0.824}, {""nome"": ""CD América de Cali"", ""similaridade"": 0.64}, {""nome"": ""UD Almería"", ""similaridade"": 0.6}]",2016 | 2018 | 2022 | 2023,BRA1
+Amiens,time:amiens,Amiens,Amiens SC,1416,mapeado_com_id_unico,,2017/18 | 2018/19,FR1
+Angers,time:angers,Angers | Angers SCO,Angers SCO,1420,mapeado_com_id_unico,,2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2024/25 | 2025/26,FR1
+Arles,time:arles,AC Arles Avignon | Arles,,,sem_id_no_catalogo,"[{""nome"": ""SC Farense"", ""similaridade"": 0.667}, {""nome"": ""RC Lens"", ""similaridade"": 0.667}, {""nome"": ""Paris FC"", ""similaridade"": 0.6}]",2010/11,FR1
+Arsenal,time:arsenal,Arsenal,Arsenal FC,11,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Aston Villa,time:aston_villa,Aston Villa,Aston Villa,405,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Atalanta,time:atalanta,Atalanta | Atalanta BC,Atalanta BC,800,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Ath Bilbao,time:ath_bilbao,Ath Bilbao | Athletic Bilbao | Athletic Club Bilbao,Athletic Bilbao,621,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Ath Madrid,time:ath_madrid,Ath Madrid | Atletico Madrid | Atletico de Madrid,Atlético de Madrid,13,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Athletico-PR,time:athletico_pr,Athletico Paranaense | Athletico-PR | Atletico Paranaense | Club Athletico Paranaense | Clube Atletico Paranaense,Clube Atlético Paranaense,679,mapeado_com_id_unico,,2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Atletico GO,time:atletico_go,AC Goianiense | Atletico Clube Goianiense | Atletico GO | Atletico Goianiense,,,sem_id_no_catalogo,"[{""nome"": ""Club Atlético Unión"", ""similaridade"": 0.8}, {""nome"": ""Club Atlético Tigre"", ""similaridade"": 0.8}, {""nome"": ""Club Atlético Belgrano"", ""similaridade"": 0.786}]",2012 | 2017 | 2022,BRA1
+Atletico-MG,time:atletico_mg,Atletico Mineiro | Atletico-MG | Clube Atletico Mineiro,Clube Atlético Mineiro,330,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Augsburg,time:augsburg,Augsburg,FC Augsburg,167,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Auxerre,time:auxerre,AJ Auxerre | Auxerre,AJ Auxerre,290,mapeado_com_id_unico,,2010/11 | 2011/12 | 2022/23 | 2024/25 | 2025/26,FR1
+Avai,time:avai,Avai,,,sem_id_no_catalogo,"[{""nome"": ""Avs Futebol"", ""similaridade"": 0.571}, {""nome"": ""SC Poltava"", ""similaridade"": 0.545}, {""nome"": ""FC Alverca"", ""similaridade"": 0.545}]",2015 | 2017 | 2019 | 2022,BRA1
+Bahia,time:bahia,Bahia,Esporte Clube Bahia,10010,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2017 | 2018 | 2019 | 2023,BRA1
+Barcelona,time:barcelona,Barcelona,FC Barcelona,131,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Bari,time:bari,AS Bari | Bari | Bari FC | SSC Bari,,,sem_id_no_catalogo,"[{""nome"": ""Paris FC"", ""similaridade"": 0.667}, {""nome"": ""Esporte Clube Bahia"", ""similaridade"": 0.667}, {""nome"": ""AC Carpi"", ""similaridade"": 0.667}]",2010/11,IT1
+Bastia,time:bastia,Bastia,SC Bastia,595,mapeado_com_id_unico,,2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17,FR1
+Bayern Munich,time:bayern_munich,Bayern Munich,Bayern Munich,27,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Benevento,time:benevento,Benevento | Benevento Calcio,Benevento Calcio,4171,mapeado_com_id_unico,,2017/18,IT1
+Betis,time:betis,Betis | Real Betis | Real Betis Balompie,Real Betis Balompié,150,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Birmingham,time:birmingham,Birmingham | Birmingham City | Birmingham City FC,,,sem_id_no_catalogo,"[{""nome"": ""SC Braga"", ""similaridade"": 0.533}, {""nome"": ""FC Minaj"", ""similaridade"": 0.533}, {""nome"": ""SC Beira-Mar"", ""similaridade"": 0.526}]",2010/11,GB1
+Blackburn,time:blackburn,Blackburn | Blackburn Rovers | Blackburn Rovers FC,,,sem_id_no_catalogo,"[{""nome"": ""BK Häcken"", ""similaridade"": 0.556}, {""nome"": ""FC Luzern"", ""similaridade"": 0.533}, {""nome"": ""Burnley FC"", ""similaridade"": 0.5}]",2010/11 | 2011/12,GB1
+Blackpool,time:blackpool,Blackpool | Blackpool FC,,,sem_id_no_catalogo,"[{""nome"": ""FK TSC Backa Topola"", ""similaridade"": 0.56}, {""nome"": ""Liverpool FC"", ""similaridade"": 0.556}, {""nome"": ""1.FC Slovacko"", ""similaridade"": 0.526}]",2010/11,GB1
+Bochum,time:bochum,Bochum | VfL Bochum,VfL Bochum,80,mapeado_com_id_unico,,2022/23 | 2023/24 | 2024/25,L1
+Bologna,time:bologna,Bologna | Bologna Football Club 1909,Bologna Football Club 1909,1025,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Bolton,time:bolton,Bolton | Bolton Wanderers | Bolton Wanderers FC,,,sem_id_no_catalogo,"[{""nome"": ""FC Botosani"", ""similaridade"": 0.714}, {""nome"": ""FC Crotone"", ""similaridade"": 0.615}, {""nome"": ""Club León FC"", ""similaridade"": 0.6}]",2010/11 | 2011/12,GB1
+Bordeaux,time:bordeaux,Bordeaux | FC Girondins Bordeaux | Girondins Bordeaux,FC Girondins Bordeaux,40,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19,FR1
+Botafogo RJ,time:botafogo_rj,Botafogo FR | Botafogo RJ | Botafogo de Futebol e Regatas | S A F Botafogo | SAF Botafogo,S. A. F. Botafogo,537,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Bournemouth,time:bournemouth,Bournemouth,AFC Bournemouth,989,mapeado_com_id_unico,,2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Bragantino,time:bragantino,Bragantino | Red Bull Bragantino,Red Bull Bragantino,8793,mapeado_com_id_unico,,2022 | 2023,BRA1
+Braunschweig,time:braunschweig,Braunschweig | Eintracht Braunschweig,Eintracht Braunschweig,23,mapeado_com_id_unico,,2013/14,L1
+Brentford,time:brentford,Brentford,Brentford FC,1148,mapeado_com_id_unico,,2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Brescia,time:brescia,Brescia | Brescia Calcio,Brescia Calcio,19,mapeado_com_id_unico,,2010/11,IT1
+Brest,time:brest,Brest | Stade Brestois | Stade Brestois 29,Stade Brestois 29,3911,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Brighton,time:brighton,Brighton | Brighton & Hove Albion,Brighton & Hove Albion,1237,mapeado_com_id_unico,,2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Burnley,time:burnley,Burnley,Burnley FC,1132,mapeado_com_id_unico,,2014/15 | 2016/17 | 2017/18 | 2018/19 | 2023/24 | 2025/26,GB1
+CSA,time:csa,CSA,,,sem_id_no_catalogo,"[{""nome"": ""Cesena FC"", ""similaridade"": 0.667}, {""nome"": ""Chelsea FC"", ""similaridade"": 0.6}, {""nome"": ""SPAL"", ""similaridade"": 0.571}]",2019,BRA1
+Cadiz,time:cadiz,Cadiz,Cádiz CF,2687,mapeado_com_id_unico,,2022/23 | 2023/24,ES1
+Caen,time:caen,Caen | SM Caen | Stade Malherbe Caen,SM Caen,1162,mapeado_com_id_unico,,2010/11 | 2011/12 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19,FR1
+Cagliari,time:cagliari,Cagliari | Cagliari Calcio,Cagliari Calcio,1390,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2016/17 | 2017/18 | 2018/19 | 2023/24 | 2024/25 | 2025/26,IT1
+Cardiff,time:cardiff,Cardiff | Cardiff City,Cardiff City,603,mapeado_com_id_unico,,2013/14 | 2018/19,GB1
+Carpi,time:carpi,Carpi,AC Carpi,4102,mapeado_com_id_unico,,2015/16,IT1
+Catania,time:catania,Catania,Catania FC,1627,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14,IT1
+Ceara,time:ceara,Ceara | Ceará Sporting Club,Ceará Sporting Club,2029,mapeado_com_id_unico,,2018 | 2019 | 2022,BRA1
+Celta,time:celta,Celta | Celta de Vigo,Celta de Vigo,940,mapeado_com_id_unico,,2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Cesena,time:cesena,Cesena,Cesena FC,1429,mapeado_com_id_unico,,2010/11 | 2011/12 | 2014/15,IT1
+Chapecoense-SC,time:chapecoense_sc,Chapecoense-SC,Associação Chapecoense de Futebol,17776,mapeado_com_id_unico,,2014 | 2015 | 2016 | 2017 | 2018 | 2019,BRA1
+Chelsea,time:chelsea,Chelsea,Chelsea FC,631,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Chievo,time:chievo,Chievo,,,sem_id_no_catalogo,"[{""nome"": ""Chievo Verona"", ""similaridade"": 0.632}, {""nome"": ""FK Sochi"", ""similaridade"": 0.545}, {""nome"": ""Elche CF"", ""similaridade"": 0.545}]",2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19,IT1
+Clermont,time:clermont,Clermont | Clermont Foot 63,Clermont Foot 63,3524,mapeado_com_id_unico,,2022/23 | 2023/24,FR1
+Como,time:como,Como | Como 1907,Como 1907,1047,mapeado_com_id_unico,,2024/25 | 2025/26,IT1
+Cordoba,time:cordoba,Cordoba,Córdoba CF,993,mapeado_com_id_unico,,2014/15,ES1
+Corinthians,time:corinthians,Corinthians | Sport Club Corinthians Paulista,Sport Club Corinthians Paulista,199,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Coritiba,time:coritiba,Coritiba | Coritiba Foot Ball Club,Coritiba Foot Ball Club,776,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2022 | 2023,BRA1
+Cremonese,time:cremonese,Cremonese | US Cremonese,US Cremonese,2239,mapeado_com_id_unico,,2022/23 | 2025/26,IT1
+Criciuma,time:criciuma,Criciuma,,,sem_id_no_catalogo,"[{""nome"": ""FK Cukaricki"", ""similaridade"": 0.588}, {""nome"": ""FC Fredericia"", ""similaridade"": 0.556}, {""nome"": ""CF América"", ""similaridade"": 0.533}]",2013 | 2014,BRA1
+Crotone,time:crotone,Crotone,FC Crotone,4083,mapeado_com_id_unico,,2016/17 | 2017/18,IT1
+Cruzeiro,time:cruzeiro,Cruzeiro,Cruzeiro Esporte Clube,609,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2023,BRA1
+Crystal Palace,time:crystal_palace,Crystal Palace,Crystal Palace,873,mapeado_com_id_unico,,2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Cuiaba,time:cuiaba,Cuiaba,,,sem_id_no_catalogo,"[{""nome"": ""Club Necaxa"", ""similaridade"": 0.5}, {""nome"": ""FC Rubin Kazan"", ""similaridade"": 0.471}, {""nome"": ""Córdoba CF"", ""similaridade"": 0.462}]",2022 | 2023,BRA1
+Darmstadt,time:darmstadt,Darmstadt | SV Darmstadt 98,SV Darmstadt 98,105,mapeado_com_id_unico,,2015/16 | 2016/17 | 2023/24,L1
+Dijon,time:dijon,Dijon | Dijon FCO,Dijon FCO,2969,mapeado_com_id_unico,,2011/12 | 2016/17 | 2017/18 | 2018/19,FR1
+Dortmund,time:dortmund,Borussia Dortmund | Dortmund,Borussia Dortmund,16,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Eibar,time:eibar,Eibar | SD Eibar,SD Eibar,1533,mapeado_com_id_unico,,2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19,ES1
+Ein Frankfurt,time:ein_frankfurt,Ein Frankfurt | Eintracht Frankfurt,Eintracht Frankfurt,24,mapeado_com_id_unico,,2010/11 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Elche,time:elche,Elche,Elche CF,1531,mapeado_com_id_unico,,2013/14 | 2014/15 | 2022/23 | 2025/26,ES1
+Empoli,time:empoli,Empoli,FC Empoli,749,mapeado_com_id_unico,,2014/15 | 2015/16 | 2016/17 | 2018/19 | 2022/23 | 2023/24 | 2024/25,IT1
+Espanol,time:espanol,Espanol | Espanyol Barcelona | RCD Espanyol | RCD Espanyol Barcelona,RCD Espanyol Barcelona,714,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2024/25 | 2025/26,ES1
+Everton,time:everton,Everton,Everton FC,29,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Evian Thonon Gaillard,time:evian_thonon_gaillard,Evian Thonon Gaillard | Evian Thonon Gaillard FC | FC Evian Thonon Gaillard | Thonon Evian Grand Geneve FC,Thonon Évian Grand Genève FC,14171,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2014/15,FR1
+FC Koln,time:fc_koln,1.FC Köln | FC Koln,1.FC Köln,3,mapeado_com_id_unico,,2010/11 | 2011/12 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2022/23 | 2023/24 | 2025/26,L1
+Figueirense,time:figueirense,Figueirense | Figueirense FC | Figueirense Futebol Clube,,,sem_id_no_catalogo,"[{""nome"": ""CD Feirense"", ""similaridade"": 0.727}, {""nome"": ""SC Farense"", ""similaridade"": 0.667}, {""nome"": ""Moreirense FC"", ""similaridade"": 0.667}]",2012 | 2014 | 2015 | 2016,BRA1
+Fiorentina,time:fiorentina,ACF Fiorentina | Fiorentina,ACF Fiorentina,430,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Flamengo RJ,time:flamengo_rj,CR Flamengo | Clube de Regatas do Flamengo | Flamengo | Flamengo RJ,Clube de Regatas do Flamengo,614,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Fluminense,time:fluminense,Fluminense,Fluminense Football Club,2462,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Fortaleza,time:fortaleza,Fortaleza,Fortaleza Esporte Clube,10870,mapeado_com_id_unico,,2019 | 2022 | 2023,BRA1
+Fortuna Dusseldorf,time:fortuna_dusseldorf,Fortuna Dusseldorf,Fortuna Düsseldorf,38,mapeado_com_id_unico,,2012/13 | 2018/19,L1
+Freiburg,time:freiburg,Freiburg,SC Freiburg,60,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Frosinone,time:frosinone,Frosinone | Frosinone Calcio,Frosinone Calcio,8970,mapeado_com_id_unico,,2015/16 | 2018/19 | 2023/24,IT1
+Fulham,time:fulham,Fulham,Fulham FC,931,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Genoa,time:genoa,Genoa | Genoa CFC,Genoa CFC,252,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2023/24 | 2024/25 | 2025/26,IT1
+Getafe,time:getafe,Getafe,Getafe CF,3709,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Girona,time:girona,Girona,Girona FC,12321,mapeado_com_id_unico,,2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Goias,time:goias,Goias | Goias EC | Goias Esporte Clube,,,sem_id_no_catalogo,"[{""nome"": ""Girona FC"", ""similaridade"": 0.545}, {""nome"": ""HNK Gorica"", ""similaridade"": 0.533}, {""nome"": ""Mirasol Futebol Clube"", ""similaridade"": 0.5}]",2013 | 2014 | 2015 | 2019 | 2022 | 2023,BRA1
+Granada,time:granada,Granada,Granada CF,16795,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2023/24,ES1
+Gremio,time:gremio,Gremio | Grêmio Foot-Ball Porto Alegrense,Grêmio Foot-Ball Porto Alegrense,210,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2023,BRA1
+Greuther Furth,time:greuther_furth,Greuther Furth | SpVgg Greuther Fürth,SpVgg Greuther Fürth,65,mapeado_com_id_unico,,2012/13,L1
+Guingamp,time:guingamp,EA Guingamp | Guingamp,EA Guingamp,855,mapeado_com_id_unico,,2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19,FR1
+Hamburg,time:hamburg,Hamburg | Hamburg SV | Hamburger SV,Hamburger SV,41,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2025/26,L1
+Hannover,time:hannover,Hannover | Hannover 96,Hannover 96,42,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2017/18 | 2018/19,L1
+Heidenheim,time:heidenheim,1. Fußballclub Heidenheim 1846 | Heidenheim,1. Fußballclub Heidenheim 1846,2036,mapeado_com_id_unico,,2023/24 | 2024/25 | 2025/26,L1
+Hercules,time:hercules,Hercules | Hercules CF | Hercules de Alicante,,,sem_id_no_catalogo,"[{""nome"": ""RC Lens"", ""similaridade"": 0.667}, {""nome"": ""Heracles Almelo"", ""similaridade"": 0.609}, {""nome"": ""Chelsea FC"", ""similaridade"": 0.533}]",2010/11,ES1
+Hertha,time:hertha,Hertha | Hertha BSC,Hertha BSC,44,mapeado_com_id_unico,,2011/12 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23,L1
+Hoffenheim,time:hoffenheim,Hoffenheim | TSG 1899 Hoffenheim,TSG 1899 Hoffenheim,533,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Holstein Kiel,time:holstein_kiel,Holstein Kiel,Holstein Kiel,269,mapeado_com_id_unico,,2024/25,L1
+Huddersfield,time:huddersfield,Huddersfield | Huddersfield Town,Huddersfield Town,1110,mapeado_com_id_unico,,2017/18 | 2018/19,GB1
+Huesca,time:huesca,Huesca | SD Huesca,SD Huesca,5358,mapeado_com_id_unico,,2018/19,ES1
+Hull,time:hull,Hull | Hull City,Hull City,3008,mapeado_com_id_unico,,2013/14 | 2014/15 | 2016/17,GB1
+Ingolstadt,time:ingolstadt,FC Ingolstadt 04 | Ingolstadt,FC Ingolstadt 04,4795,mapeado_com_id_unico,,2015/16 | 2016/17,L1
+Inter,time:inter,Inter | Inter Milan,Inter Milan,46,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Internacional,time:internacional,Internacional | Sport Club Internacional,Sport Club Internacional,6600,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2018 | 2019 | 2022 | 2023,BRA1
+Ipswich,time:ipswich,Ipswich | Ipswich Town,Ipswich Town,677,mapeado_com_id_unico,,2024/25,GB1
+Joinville,time:joinville,Joinville,,,sem_id_no_catalogo,"[{""nome"": ""Nashville SC"", ""similaridade"": 0.667}, {""nome"": ""Aston Villa"", ""similaridade"": 0.6}, {""nome"": ""Villarreal CF"", ""similaridade"": 0.526}]",2015,BRA1
+Juventude,time:juventude,Juventude,Esporte Clube Juventude,10492,mapeado_com_id_unico,,2022,BRA1
+Juventus,time:juventus,Juventus,Juventus FC,506,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Kaiserslautern,time:kaiserslautern,1 FC Kaiserslautern | Kaiserslautern,,,sem_id_no_catalogo,"[{""nome"": ""KAS Eupen"", ""similaridade"": 0.609}, {""nome"": ""Kayserispor"", ""similaridade"": 0.56}, {""nome"": ""Hamarkameratene"", ""similaridade"": 0.552}]",2010/11 | 2011/12,L1
+La Coruna,time:la_coruna,Deportivo de La Coruña | La Coruna,Deportivo de La Coruña,897,mapeado_com_id_unico,,2010/11 | 2012/13 | 2014/15 | 2015/16 | 2016/17 | 2017/18,ES1
+Las Palmas,time:las_palmas,Las Palmas | UD Las Palmas,UD Las Palmas,472,mapeado_com_id_unico,,2015/16 | 2016/17 | 2017/18 | 2023/24 | 2024/25,ES1
+Lazio,time:lazio,Lazio | SS Lazio | Società Sportiva Lazio S.p.A.,Società Sportiva Lazio S.p.A.,398,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Le Havre,time:le_havre,Le Havre,Le Havre AC,738,mapeado_com_id_unico,,2023/24 | 2024/25 | 2025/26,FR1
+Lecce,time:lecce,Lecce | US Lecce,US Lecce,1005,mapeado_com_id_unico,,2010/11 | 2011/12 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Leeds,time:leeds,Leeds | Leeds United,Leeds United,399,mapeado_com_id_unico,,2022/23 | 2025/26,GB1
+Leganes,time:leganes,CD Leganés | Leganes,CD Leganés,1244,mapeado_com_id_unico,,2016/17 | 2017/18 | 2018/19 | 2024/25,ES1
+Leicester,time:leicester,Leicester | Leicester City,Leicester City,1003,mapeado_com_id_unico,,2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2024/25,GB1
+Lens,time:lens,Lens | RC Lens,RC Lens,826,mapeado_com_id_unico,,2010/11 | 2014/15 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Levante,time:levante,Levante | Levante UD,Levante UD,3368,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2017/18 | 2018/19 | 2025/26,ES1
+Leverkusen,time:leverkusen,Bayer 04 Leverkusen | Leverkusen,Bayer 04 Leverkusen,15,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Lille,time:lille,LOSC Lille | Lille,LOSC Lille,1082,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Liverpool,time:liverpool,Liverpool,Liverpool FC,31,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Livorno,time:livorno,AS Livorno | Livorno | US Livorno 1915,US Livorno 1915,1210,mapeado_com_id_unico,,2013/14,IT1
+Lorient,time:lorient,Lorient,FC Lorient,1158,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2022/23 | 2023/24 | 2025/26,FR1
+Luton,time:luton,Luton | Luton Town,Luton Town,1031,mapeado_com_id_unico,,2023/24,GB1
+Lyon,time:lyon,Lyon | Olympique Lyon,Olympique Lyon,1041,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+M'gladbach,time:m_gladbach,Borussia Monchengladbach | M'gladbach | MGladbach,Borussia Mönchengladbach,18,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+MGladbach,time:m_gladbach,Borussia Monchengladbach | M'gladbach | MGladbach,Borussia Mönchengladbach,18,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Mainz,time:mainz,1.FSV Mainz 05 | Mainz,1.FSV Mainz 05,39,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Malaga,time:malaga,Malaga,Málaga CF,1084,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18,ES1
+Mallorca,time:mallorca,Mallorca | RCD Mallorca,RCD Mallorca,237,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Man City,time:man_city,Man City | Manchester City | Manchester City FC,Manchester City,281,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Man United,time:man_united,Man United | Manchester United | Manchester United FC,Manchester United,985,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Marseille,time:marseille,Marseille | Olympique Marseille,Olympique Marseille,244,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Metz,time:metz,Metz,FC Metz,347,mapeado_com_id_unico,,2014/15 | 2016/17 | 2017/18 | 2023/24 | 2025/26,FR1
+Middlesbrough,time:middlesbrough,Middlesbrough,Middlesbrough FC,641,mapeado_com_id_unico,,2016/17,GB1
+Milan,time:milan,Milan,AC Milan,5,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Monaco,time:monaco,Monaco,AS Monaco,162,mapeado_com_id_unico,,2010/11 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Montpellier,time:montpellier,Montpellier | Montpellier HSC,Montpellier HSC,969,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25,FR1
+Monza,time:monza,Monza,AC Monza,2919,mapeado_com_id_unico,,2022/23 | 2023/24 | 2024/25,IT1
+Nancy,time:nancy,Nancy,,,sem_id_no_catalogo,"[{""nome"": ""Football Club Anyang"", ""similaridade"": 0.545}, {""nome"": ""FC Nantes"", ""similaridade"": 0.545}, {""nome"": ""AS Monaco"", ""similaridade"": 0.545}]",2010/11 | 2011/12 | 2012/13 | 2016/17,FR1
+Nantes,time:nantes,Nantes,FC Nantes,995,mapeado_com_id_unico,,2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Napoli,time:napoli,Napoli | SSC Napoli,SSC Napoli,6195,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Nautico,time:nautico,Clube Nautico Capibaribe | Nautico | Nautico Capibaribe,,,sem_id_no_catalogo,"[{""nome"": ""Austin FC"", ""similaridade"": 0.615}, {""nome"": ""AS Monaco"", ""similaridade"": 0.615}, {""nome"": ""FK Pardubice"", ""similaridade"": 0.5}]",2012 | 2013,BRA1
+Newcastle,time:newcastle,Newcastle | Newcastle United,Newcastle United,762,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Nice,time:nice,Nice | OGC Nice,OGC Nice,417,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Nimes,time:nimes,Nimes,,,sem_id_no_catalogo,"[{""nome"": ""FC Nantes"", ""similaridade"": 0.545}, {""nome"": ""Rangers FC"", ""similaridade"": 0.5}, {""nome"": ""Randers FC"", ""similaridade"": 0.5}]",2018/19,FR1
+Norwich,time:norwich,Norwich | Norwich City,Norwich City,1123,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2015/16,GB1
+Nott'm Forest,time:nott_m_forest,Nott'm Forest | Nottingham Forest | Nottingham Forest FC | Nottm Forest,Nottingham Forest,703,mapeado_com_id_unico,,2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Nottm Forest,time:nott_m_forest,Nott'm Forest | Nottingham Forest | Nottingham Forest FC | Nottm Forest,Nottingham Forest,703,mapeado_com_id_unico,,2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Novara,time:novara,Novara | Novara Calcio | Novara FC,,,sem_id_no_catalogo,"[{""nome"": ""FK Novi Pazar"", ""similaridade"": 0.625}, {""nome"": ""NK Varazdin"", ""similaridade"": 0.588}, {""nome"": ""NAC Breda"", ""similaridade"": 0.533}]",2011/12,IT1
+Nurnberg,time:nurnberg,1 FC Nuremberg | 1 FC Nurnberg | Nurnberg,1.FC Nuremberg,4,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2018/19,L1
+Osasuna,time:osasuna,CA Osasuna | Osasuna,CA Osasuna,331,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2016/17 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Oviedo,time:oviedo,Oviedo | Real Oviedo,Real Oviedo,2497,mapeado_com_id_unico,,2025/26,ES1
+Paderborn,time:paderborn,Paderborn | SC Paderborn 07,SC Paderborn 07,127,mapeado_com_id_unico,,2014/15,L1
+Palermo,time:palermo,Palermo,Palermo FC,458,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2014/15 | 2015/16 | 2016/17,IT1
+Palmeiras,time:palmeiras,Palmeiras | Sociedade Esportiva Palmeiras,Sociedade Esportiva Palmeiras,1023,mapeado_com_id_unico,,2012 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Parana,time:parana,Parana | Parana Clube,,,sem_id_no_catalogo,"[{""nome"": ""Granada CF"", ""similaridade"": 0.615}, {""nome"": ""Catania FC"", ""similaridade"": 0.615}, {""nome"": ""Arsenal FC"", ""similaridade"": 0.615}]",2018,BRA1
+Paris FC,time:paris_fc,Paris FC,Paris FC,10004,mapeado_com_id_unico,,2025/26,FR1
+Paris SG,time:paris_sg,PSG | Paris SG | Paris Saint Germain | Paris Saint-Germain,Paris Saint-Germain,583,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Parma,time:parma,Parma | Parma Calcio 1913 | Parma FC,Parma Calcio 1913,130,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2018/19 | 2024/25 | 2025/26,IT1
+Pescara,time:pescara,Delfino Pescara 1936 | Pescara,Delfino Pescara 1936,2921,mapeado_com_id_unico,,2012/13 | 2016/17,IT1
+Pisa,time:pisa,Pisa | Pisa Sporting Club,Pisa Sporting Club,4172,mapeado_com_id_unico,,2025/26,IT1
+Ponte Preta,time:ponte_preta,AA Ponte Preta | Associacao Atletica Ponte Preta | Ponte Preta,,,sem_id_no_catalogo,"[{""nome"": ""CF Monterrey"", ""similaridade"": 0.6}, {""nome"": ""Deportivo Pereira"", ""similaridade"": 0.571}, {""nome"": ""Göztepe"", ""similaridade"": 0.556}]",2012 | 2013 | 2015 | 2016 | 2017,BRA1
+Portuguesa,time:portuguesa,Associacao Portuguesa de Desportos | Portuguesa | Portuguesa de Desportos,,,sem_id_no_catalogo,"[{""nome"": ""Deportes Tolima"", ""similaridade"": 0.56}, {""nome"": ""Portimonense SC"", ""similaridade"": 0.545}, {""nome"": ""FC Porto"", ""similaridade"": 0.533}]",2012 | 2013,BRA1
+QPR,time:qpr,QPR | Queens Park Rangers | Queens Park Rangers FC,Queens Park Rangers,1039,mapeado_com_id_unico,,2011/12 | 2012/13 | 2014/15,GB1
+RB Leipzig,time:rb_leipzig,RB Leipzig,RB Leipzig,23826,mapeado_com_id_unico,,2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Reading,time:reading,Reading,Reading FC,1032,mapeado_com_id_unico,,2012/13,GB1
+Real Madrid,time:real_madrid,Real Madrid,Real Madrid,418,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Reims,time:reims,Reims | Stade Reims,Stade Reims,1421,mapeado_com_id_unico,,2012/13 | 2013/14 | 2014/15 | 2015/16 | 2018/19 | 2022/23 | 2023/24 | 2024/25,FR1
+Rennes,time:rennes,Rennes | Stade Rennais | Stade Rennais FC,Stade Rennais FC,273,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Roma,time:roma,AS Roma | Associazione Sportiva Roma | Roma,Associazione Sportiva Roma,12,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Salernitana,time:salernitana,Salernitana | US Salernitana 1919,US Salernitana 1919,380,mapeado_com_id_unico,,2022/23 | 2023/24,IT1
+Sampdoria,time:sampdoria,Sampdoria | UC Sampdoria,UC Sampdoria,1038,mapeado_com_id_unico,,2010/11 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23,IT1
+Santa Cruz,time:santa_cruz,Santa Cruz | Santa Cruz FC PE | Santa Cruz Futebol Clube,,,sem_id_no_catalogo,"[{""nome"": ""CD Santa Clara"", ""similaridade"": 0.667}, {""nome"": ""AC Sparta Prague"", ""similaridade"": 0.609}, {""nome"": ""Atalanta BC"", ""similaridade"": 0.571}]",2016,BRA1
+Santander,time:santander,Racing Club de Santander | Racing Santander | Santander,,,sem_id_no_catalogo,"[{""nome"": ""Randers FC"", ""similaridade"": 0.625}, {""nome"": ""Stade Reims"", ""similaridade"": 0.6}, {""nome"": ""Seattle Sounders FC"", ""similaridade"": 0.56}]",2010/11 | 2011/12,ES1
+Santos,time:santos,Santos,Santos Futebol Clube,221,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Sao Paulo,time:sao_paulo,Sao Paulo,São Paulo Futebol Clube,585,mapeado_com_id_unico,,2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019 | 2022 | 2023,BRA1
+Sassuolo,time:sassuolo,Sassuolo | US Sassuolo,US Sassuolo,6574,mapeado_com_id_unico,,2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2025/26,IT1
+Schalke 04,time:schalke_04,Schalke 04,FC Schalke 04,33,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23,L1
+Sevilla,time:sevilla,Sevilla,Sevilla FC,368,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Sheffield United,time:sheffield_united,Sheffield United,Sheffield United,350,mapeado_com_id_unico,,2023/24,GB1
+Siena,time:siena,Siena,Siena FC,1387,mapeado_com_id_unico,,2011/12 | 2012/13,IT1
+Sochaux,time:sochaux,FC Sochaux-Montbéliard | Sochaux,FC Sochaux-Montbéliard,750,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14,FR1
+Sociedad,time:sociedad,Real Sociedad | Sociedad,Real Sociedad,681,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Southampton,time:southampton,Southampton,Southampton FC,180,mapeado_com_id_unico,,2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2024/25,GB1
+Sp Gijon,time:sp_gijon,Sp Gijon | Sporting Gijon,Sporting Gijón,2448,mapeado_com_id_unico,,2010/11 | 2011/12 | 2015/16 | 2016/17,ES1
+Spal,time:spal,Spal,SPAL,2722,mapeado_com_id_unico,,2017/18 | 2018/19,IT1
+Spezia,time:spezia,Spezia | Spezia Calcio,Spezia Calcio,3522,mapeado_com_id_unico,,2022/23,IT1
+Sport Recife,time:sport_recife,Sport Recife,Sport Club do Recife,8718,mapeado_com_id_unico,,2012 | 2014 | 2015 | 2016 | 2017 | 2018,BRA1
+St Etienne,time:st_etienne,AS Saint-Etienne | Saint-Etienne | St Etienne,AS Saint-Étienne,618,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2024/25,FR1
+St Pauli,time:st_pauli,St Pauli,FC St. Pauli,35,mapeado_com_id_unico,,2010/11 | 2024/25 | 2025/26,L1
+Stoke,time:stoke,Stoke | Stoke City,Stoke City,512,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18,GB1
+Strasbourg,time:strasbourg,RC Strasbourg Alsace | Strasbourg,RC Strasbourg Alsace,667,mapeado_com_id_unico,,2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Stuttgart,time:stuttgart,Stuttgart | VfB Stuttgart,VfB Stuttgart,79,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Sunderland,time:sunderland,Sunderland,Sunderland AFC,289,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2025/26,GB1
+Swansea,time:swansea,Swansea | Swansea City,Swansea City,2288,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18,GB1
+Torino,time:torino,Torino,Torino FC,416,mapeado_com_id_unico,,2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Tottenham,time:tottenham,Tottenham | Tottenham Hotspur,Tottenham Hotspur,148,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Toulouse,time:toulouse,Toulouse,FC Toulouse,415,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,FR1
+Troyes,time:troyes,ESTAC Troyes | Troyes,ESTAC Troyes,1095,mapeado_com_id_unico,,2012/13 | 2015/16 | 2017/18 | 2022/23,FR1
+Udinese,time:udinese,Udinese | Udinese Calcio,Udinese Calcio,410,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Union Berlin,time:union_berlin,1.FC Union Berlin | Union Berlin,1.FC Union Berlin,89,mapeado_com_id_unico,,2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Valencia,time:valencia,Valencia,Valencia CF,1049,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Valenciennes,time:valenciennes,Valenciennes,Valenciennes FC,1423,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14,FR1
+Valladolid,time:valladolid,Real Valladolid CF | Valladolid,Real Valladolid CF,366,mapeado_com_id_unico,,2012/13 | 2013/14 | 2018/19 | 2022/23 | 2024/25,ES1
+Vallecano,time:vallecano,Rayo Vallecano | Vallecano,Rayo Vallecano,367,mapeado_com_id_unico,,2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Vasco,time:vasco,Club de Regatas Vasco da Gama | Vasco,Club de Regatas Vasco da Gama,978,mapeado_com_id_unico,,2012 | 2013 | 2015 | 2017 | 2018 | 2019 | 2023,BRA1
+Venezia,time:venezia,Venezia,Venezia FC,607,mapeado_com_id_unico,,2024/25,IT1
+Verona,time:verona,Hellas Verona | Hellas Verona FC | Verona,Hellas Verona,276,mapeado_com_id_unico,,2013/14 | 2014/15 | 2015/16 | 2017/18 | 2022/23 | 2023/24 | 2024/25 | 2025/26,IT1
+Villarreal,time:villarreal,Villarreal,Villarreal CF,1050,mapeado_com_id_unico,,2010/11 | 2011/12 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,ES1
+Vitoria,time:vitoria,Vitoria,Esporte Clube Vitória,2125,mapeado_com_id_unico,,2013 | 2014 | 2016 | 2017 | 2018,BRA1
+Watford,time:watford,Watford,Watford FC,1010,mapeado_com_id_unico,,2015/16 | 2016/17 | 2017/18 | 2018/19,GB1
+Werder Bremen,time:werder_bremen,Werder Bremen,SV Werder Bremen,86,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+West Brom,time:west_brom,West Brom | West Bromwich Albion | West Bromwich Albion FC,West Bromwich Albion,984,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18,GB1
+West Ham,time:west_ham,West Ham | West Ham United,West Ham United,379,mapeado_com_id_unico,,2010/11 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Wigan,time:wigan,Wigan | Wigan Athletic,Wigan Athletic,1071,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13,GB1
+Wolfsburg,time:wolfsburg,VfL Wolfsburg | Wolfsburg,VfL Wolfsburg,82,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13 | 2013/14 | 2014/15 | 2015/16 | 2016/17 | 2017/18 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,L1
+Wolves,time:wolves,Wolverhampton Wanderers | Wolverhampton Wanderers FC | Wolves,Wolverhampton Wanderers,543,mapeado_com_id_unico,,2010/11 | 2011/12 | 2018/19 | 2022/23 | 2023/24 | 2024/25 | 2025/26,GB1
+Zaragoza,time:zaragoza,Real Zaragoza | Zaragoza,Real Zaragoza,142,mapeado_com_id_unico,,2010/11 | 2011/12 | 2012/13,ES1
