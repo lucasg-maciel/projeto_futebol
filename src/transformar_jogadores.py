@@ -7,43 +7,27 @@ import unicodedata
 import numpy as np
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents[3]
+ROOT = Path(__file__).resolve().parents[1]
 BRONZE = ROOT / "dados" / "bronze" / "football"
 PRATA = ROOT / "dados" / "prata"
 PADRAO = "football_*.csv"
 
+# 1. No topo do arquivo, importe os dicionários do enriquecer_2:
+from enriquecer import DE_PARA_TRANSFERMARKT, TODOS_CLUBES_TRANSFERMARKT
 
-
-
-LISTA_TIMES = [ "América Futebol Clube (MG)","Club Athletico Paranaense","Atlético Clube Goianiense"
-               ,"Clube Atlético Mineiro","Avaí Futebol Clube","Esporte Clube Bahia","Botafogo de Futebol e Regatas",
-               "Red Bull Bragantino","Centro Sportivo Alagoano (AL)","Ceará Sporting Club","Associação Chapecoense de Futebol","Sport Club Corinthians Paulista","Coritiba Foot Ball Club",
-               "Criciúma Esporte Clube","Cruzeiro Esporte Clube","Cuiabá Esporte Clube (MT)", "Figueirense Futebol Clube","Clube de Regatas do Flamengo","Fluminense Football Club",
-               "Joinville Esporte Clube (SC)","Fortaleza Esporte Clube","Goiás Esporte Clube","Grêmio Foot-Ball Porto Alegrense","Sport Club Internacional",
-               "Esporte Clube Juventude","Clube Náutico Capibaribe","Sociedade Esportiva Palmeiras", "Paraná Clube", "Associação Atlética Ponte Preta","Portuguesa", "Santa Cruz FC (PE)", "Santa Cruz Futebol Clube (PE)","Santos FC","São Paulo Futebol Clube","Clube de Regatas Vasco da Gama", "Esporte Clube Vitória",  
-               "Arsenal FC","Aston Villa","Birmingham City","Blackburn Rovers","Blackpool FC","Bolton Wanderers","AFC Bournemouth",
-               "Brentford FC","Brighton & Hove Albion","Burnley FC","Cardiff City","Chelsea FC","Crystal Palace","Everton FC","Fulham FC","Huddersfield Town","Hull City","Ipswich Town",
-                "Leeds United","Leicester City", "Liverpool FC","Luton Town","Manchester City","Manchester United","Middlesbrough FC","Newcastle United","Norwich City","Nottingham Forest","Queens Park Rangers", "Reading FC"
-                "Sheffield United","Southampton FC","Stoke City","Sunderland AFC","Swansea City","Tottenham Hotspur","Watford FC","West Bromwich Albion","West Ham United",
-                "Wigan Athletic","Wolverhampton Wanderers","Nottingham Forest", "Atalanta BC", "AS Bari", "Benevento Calcio", "Bologna FC 1909", "Brescia Calcio", "Cagliari Calcio", "AC Carpi", "Catania FC", "AC Cesena", "Chievo Verona",
-                "Calcio Como", "US Cremonese", "FC Crotone", "FC Empoli", "ACF Fiorentina", "Frosinone Calcio", "Genoa CFC", "FC Internazionale", "Juventus FC", "SS Lazio", "US Lecce", "AS Livorno", "AC Milan", "AC Monza", "SSC Napoli", "Novara FC", "Palermo FC",
-                "Parma FC", "Delfino Pescara 1936", "AC Pisa 1909", "AS Roma", "US Salernitana", "UC Sampdoria", "US Sassuolo", "AC Siena", "SPAL", "Spezia Calcio 1906", "Torino FC", "Udinese Calcio", "Venezia FC", "Hellas Verona",
-                "AC Ajaccio", "GFC Ajaccio", "Amiens SC", "Angers SCO", "AC Arles-Avignon", "AJ Auxerre", "SC Bastia", "FC Girondins Bordeaux", "Stade Brestois 29", "SM Caen", "Clermont Foot Auvergne 63", "Dijon FCO", "FC Évian Thonon Gaillard", "EA Guingamp", "Le Havre AC", "RC Lens",
-                "LOSC Lille", "FC Lorient", "Olympique Lyon", "Olympique Marseille", "FC Metz", "AS Monaco", "Montpellier HSC", "AS Nancy-Lorraine", "FC Nantes", "OGC Nice", "Nîmes Olympique", "Paris FC", "Paris Saint-Germain", "Stade Reims", "Stade Rennais FC", "FC Sochaux-Montbéliard",
-                "AS Saint-Étienne", "RC Strasbourg Alsace", "FC Toulouse", "ESTAC Troyes", "Valenciennes FC",
-                "FC Augsburg", "Bayern Munich", "VfL Bochum", "Eintracht Braunschweig", "SV Darmstadt 98", "Borussia Dortmund", "Eintracht Frankfurt", "1.FC Köln", "Fortuna Düsseldorf", "SC Freiburg", "SpVgg Greuther Fürth", "Hamburger SV", "Hannover 96",
-                "1.FC Heidenheim 1846", "Hertha BSC", "TSG 1899 Hoffenheim", "Holstein Kiel", "FC Ingolstadt 04", "1.FC Kaiserslautern", "Bayer 04 Leverkusen", "Borussia Mönchengladbach", "1.FSV Mainz 05", "1.FC Nuremberg", "SC Paderborn 07", "RB Leipzig",
-                "FC Schalke 04", "FC St. Pauli", "VfB Stuttgart", "1.FC Union Berlin", "SV Werder Bremen", "VfL Wolfsburg"]
-
+# 2. Atualize TIMES_BRASIL adicionando as grafias alternativas do Transfermarkt:
 TIMES_BRASIL = {
     "América Futebol Clube (MG)",
     "Club Athletico Paranaense",
+    "Atlético Paranaense",
     "Atlético Clube Goianiense",
     "Clube Atlético Mineiro",
+    "Avaí FC",
     "Avaí Futebol Clube",
     "Esporte Clube Bahia",
     "Botafogo de Futebol e Regatas",
     "Red Bull Bragantino",
+    "Clube Atlético Bragantino (SP)",
     "Centro Sportivo Alagoano (AL)",
     "Ceará Sporting Club",
     "Associação Chapecoense de Futebol",
@@ -53,10 +37,12 @@ TIMES_BRASIL = {
     "Cruzeiro Esporte Clube",
     "Cuiabá Esporte Clube (MT)",
     "Figueirense Futebol Clube",
+    "CR Flamengo",
     "Clube de Regatas do Flamengo",
     "Fluminense Football Club",
     "Joinville Esporte Clube (SC)",
     "Fortaleza Esporte Clube",
+    "Goiás EC",
     "Goiás Esporte Clube",
     "Grêmio Foot-Ball Porto Alegrense",
     "Sport Club Internacional",
@@ -73,6 +59,8 @@ TIMES_BRASIL = {
     "Clube de Regatas Vasco da Gama",
     "Esporte Clube Vitória",
 }
+
+
 
 def carregar():
     arquivos = sorted(BRONZE.glob(PADRAO))
@@ -128,7 +116,7 @@ def filtrar_jogadores(df2):
         | df_filtrado["date"].between("2022-01-01", "2026-06-15")
     )
     df_filtrado = df_filtrado.loc[
-        df_filtrado["current_club_name"].isin(LISTA_TIMES) & periodo
+        df_filtrado["current_club_name"].isin(TODOS_CLUBES_TRANSFERMARKT) & periodo
     ].copy()
 
     e_brasil = (
