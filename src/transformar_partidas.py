@@ -4,7 +4,9 @@ from pathlib import Path
 
 import pandas as pd
 
-ROOT = Path(__file__).resolve().parents[3]
+import config
+
+ROOT = config.RAIZ
 BRONZE = ROOT / "dados" / "bronze" / "football"
 PRATA = ROOT / "dados" / "prata"
 PADRAO = "football_*.csv"

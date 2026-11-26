@@ -1,0 +1,12 @@
+version: 2
+models:
+  - name: fato_desempenho_temporadas
+    description: Fato que representa o desempenho de cada time em cada temporada, incluindo métricas como vitórias, empates, derrotas e valor do elenco.
+    columns:
+      - name: liga_id
+        description: Identificador da liga em que a partida ocorreu.
+        data_tests:
+          - not_null
+          - relationships:
+              to: ref('liga')
+              field: liga_id

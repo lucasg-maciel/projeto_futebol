@@ -217,7 +217,8 @@ def registrar(origem, destino, antes, depois, decisoes):
     with caminho.open("a", encoding="utf-8") as f:
         f.write(json.dumps(info, ensure_ascii=False) + "\n")
 
-if __name__ == "__main__":
+
+def main():
     df, df2, caminho = carregar()
     
     
@@ -286,4 +287,8 @@ if __name__ == "__main__":
         depois=df2_filtrado.shape[0],
         decisoes= {"filtrado por clubes e datas": df2_filtrado.shape[0]},
     )
+
+
+if __name__ == "__main__":
+    main()
     

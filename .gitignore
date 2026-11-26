@@ -4,3 +4,4 @@ dados/ouro/*
 __pycache__/
 kaggle.json
 relatorios/
+duckdb.exe

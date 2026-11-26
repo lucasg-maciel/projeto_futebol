@@ -2,6 +2,6 @@ version: 2
 sources:
   - name: prata
     schema: prata
-tables:
-  - name: paises
-  - name: partidas_enriquecidas
+    tables:
+      - name: partidas
+      - name: partidas_enriquecidas

@@ -9,6 +9,7 @@ PRATA = DADOS / "prata"
 OURO = DADOS / "ouro"
 DATASET_1 = "adamgbor/club-football-match-data-2000-2025"
 DATASET_2 = "davidcariboo/player-scores"
+RELATORIOS = RAIZ / "relatorios"
 
 
 def configurar_log():
@@ -22,3 +23,6 @@ def configurar_log():
     ],
     )
 
+def criar_pastas():
+    for pasta in (BRONZE,PRATA, OURO, RELATORIOS):
+        pasta.mkdir(parents=True, exist_ok=True)

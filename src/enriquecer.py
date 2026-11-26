@@ -334,13 +334,6 @@ def main():
     sem_par_away = int(enriquecido["valor_total_elenco_away"].isna().sum())
     print(f"Partidas: {len(partidas)} | Sem par Home: {sem_par_home} | Sem par Away: {sem_par_away}")
 
-    # Passo 5: Atributos derivados pós-junção
-    enriquecido["diferenca_valor_elenco"] = (
-        enriquecido["valor_total_elenco_home"] - enriquecido["valor_total_elenco_away"]
-    )
-    enriquecido["razao_valor_elenco"] = (
-        enriquecido["valor_total_elenco_home"] / enriquecido["valor_total_elenco_away"]
-    )
     
     destino_parquet = PRATA / "partidas_enriquecidas.parquet"
     destino_csv = PRATA / "partidas_enriquecidas.csv"
